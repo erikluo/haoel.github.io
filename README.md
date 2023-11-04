@@ -370,6 +370,13 @@ Clash 的客户端支持多种平台，包括 Windows, MacOS, Linux 等，你可
 - [Clash for MacOS](https://github.com/yichengchen/clashX)
 - [Clash for Android](https://github.com/Kr328/ClashForAndroid)
 
+【备注】以上clash相关仓库已删库， 可以参考下面的几个备份或相关项目： 
+
+- [clash-core backup](https://github.com/Kuingsmile/clash-core)
+- [Clash.Meta Meta分支](https://github.com/MetaCubeX/Clash.Meta/tree/Meta)
+- [vClash](https://github.com/vxiaov/vClash)
+
+
 下面是 Clash 安装完后的配置目录结构：
 
 ```
